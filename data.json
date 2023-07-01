@@ -1,0 +1,16 @@
+{
+  "employees": [
+  ],
+  "users": [
+    {
+      "email": "user@yandex.ru",
+      "password": "$2a$10$Qu/E.QdtrIwNifHUpBrHX.iFK.RvzLSwyAzoz/LaGlOqOk9CVioyu",
+      "id": "user"
+    },
+    {
+      "email": "admin@yandex.ru",
+      "password": "$2a$10$NPq0VizZW3m7qUBxHGHsgeeXnn8WzARnNz2Ge3xldAYiTdqcDBIEG",
+      "id": "admin"
+    }
+  ]
+}
